@@ -1,2 +1,2 @@
 # calculatrice-controle-continu
-devoir
+devoirpetit devoir
